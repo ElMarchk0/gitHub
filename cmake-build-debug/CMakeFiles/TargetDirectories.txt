@@ -1,0 +1,9 @@
+/home/petercharlesworth/CLionProjects/Lab8/cmake-build-debug/CMakeFiles/Lab8.dir
+/home/petercharlesworth/CLionProjects/Lab8/cmake-build-debug/CMakeFiles/package.dir
+/home/petercharlesworth/CLionProjects/Lab8/cmake-build-debug/CMakeFiles/package_source.dir
+/home/petercharlesworth/CLionProjects/Lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/petercharlesworth/CLionProjects/Lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/petercharlesworth/CLionProjects/Lab8/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/petercharlesworth/CLionProjects/Lab8/cmake-build-debug/CMakeFiles/install.dir
+/home/petercharlesworth/CLionProjects/Lab8/cmake-build-debug/CMakeFiles/install/local.dir
+/home/petercharlesworth/CLionProjects/Lab8/cmake-build-debug/CMakeFiles/install/strip.dir
